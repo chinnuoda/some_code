@@ -1,2 +1,2 @@
 # some_code
-just a shell script trye
+just a shell script 
